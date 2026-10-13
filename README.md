@@ -1,6 +1,6 @@
 # Olist | Análise de Vendas com PostgreSQL e Python
 
-**Projeto de portfólio em desenvolvimento e validação.** Análise de dados públicos de e-commerce com foco em indicadores de vendas, sazonalidade, categorias e distribuição geográfica.
+**Projeto de portfólio.** Análise de dados públicos de e-commerce com foco em indicadores de vendas, sazonalidade, categorias e distribuição geográfica.
 
 ## Contexto e objetivo
 Transformar registros transacionais em indicadores de negócio: pedidos entregues, receita de produtos (sem frete), ticket médio, faturamento por categoria/estado e evolução mensal. O objetivo é demonstrar modelagem de consultas, JOINs, agregações, CTEs e funções de janela.
