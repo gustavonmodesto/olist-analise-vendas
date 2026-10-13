@@ -1,0 +1,7 @@
+*.backup
+*.dump
+.env
+__pycache__/
+.venv/
+dados/*.csv
+!dados/.gitkeep
